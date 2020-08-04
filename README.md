@@ -52,6 +52,8 @@ I’m a seasoned Senior Integration Developer with over 20 years of success dire
   </a>
 
 
-</p>
-  <hr>
-  ![Paul's github stats](https://github-readme-stats.vercel.app/api?username=PaulNichols&count_private=true)
+</p><hr>
+
+
+  ![Pauls's github stats](https://github-readme-stats.vercel.app/api?username=PaulNichols&count_private=true&show_icons=true)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PaulNichols&layout=compact)](https://github.com/PaulNichols/github-readme-stats)
