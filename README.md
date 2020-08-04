@@ -53,10 +53,5 @@ I’m a seasoned Senior Integration Developer with over 20 years of success dire
 
 
 </p>
-  
-  
-<p align="center" >
-  <a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <im  src="https://github-readme-stats.vercel.app/api?username=PaulNichols&&show_icons=true&theme=radical"/>
-  </a>
-</p>
+  <hr>
+  ![Paul's github stats](https://github-readme-stats.vercel.app/api?username=PaulNichols&count_private=true)
