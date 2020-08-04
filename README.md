@@ -3,8 +3,15 @@
 Senior Integration Specialist | Azure Certified Consultant | Solution Architecture | .NET Developer
 
 I’m a seasoned Senior Integration Developer with over 20 years of success directing the design, development, integration, optimisation, and implementation of enterprise software solutions involving MS Azure and .NET in an Agile environment.
+  
+<p align="center">
+  <a href="http://integrationmadeeasy.org">
+    <img src="https://github.com/PaulNichols/PaulNichols/blob/master/svg/blogs/wordpress.svg" alt="Personal Blog" style="vertical-align:top; margin:4px">
+  </a>  
+</p>
 
 ---
+
 ### 🌱 I’m currently learning
 ....
 
@@ -17,7 +24,7 @@ I’m a seasoned Senior Integration Developer with over 20 years of success dire
     <img src="https://raw.githubusercontent.com/PaulNichols/PaulNichols/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/twitter.svg" alt="Twitter" style="vertical-align:top; margin:4px">
   </a>  
 
-  <a href="https://www.linkedin.com/in/micjames/">
+  <a href="https://www.linkedin.com/in/pauljamesnichols/">
     <img src="https://raw.githubusercontent.com/PaulNichols/PaulNichols/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/linkedIn.svg" alt="LinkedIn" style="vertical-align:top; margin:4px">
   </a>
 
