@@ -1,47 +1,83 @@
 ### Hi there I'm Paul 👋
+
 Senior Integration Specialist | Azure Certified Consultant | Solution Architecture | .NET Developer
 
 I’m a seasoned Senior Integration Developer with over 20 years of success directing the design, development, integration, optimisation, and implementation of enterprise software solutions involving MS Azure and .NET in an Agile environment.
 
+---
+### 🌱 I’m currently learning
+....
 
-- 🔭 I’m currently working on ...
 
-- 💬 Ask me about ...
-  
-- 📫 How to reach me: ... <a href="https://twitter.com/pauljnichols"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/pauljnichols?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@pauljnichols"></a>    <a href="https://www.linkedin.com/in/pauljamesnichols/">
-    <img  alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-  </a>    <a href="https://www.codechef.com/users/hemant_x">
-    <img alt="HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
+
+---
+### 📢 Find me elsewhere
+<p align="center">
+  <a href="https://twitter.com/mikecodesdotnet">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/twitter.svg" alt="Twitter" style="vertical-align:top; margin:4px">
+  </a>  
+
+  <a href="https://www.linkedin.com/in/micjames/">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/linkedIn.svg" alt="LinkedIn" style="vertical-align:top; margin:4px">
   </a>
+
+  <a href="https://www.instagram.com/micjames6/">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/instagram.svg" alt="Instagram" style="vertical-align:top; margin:4px">
+  </a>
+
+  <a href="https://www.meetup.com/members/186160064/">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/meetup.svg" alt="Meetup" style="vertical-align:top; margin:4px">
+  </a>
+
+   <a href="https://marketplace.visualstudio.com/publishers/MikeJames">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/visualStudioExtensions.svg" alt="VS Marketplace" style="vertical-align:top; margin:4px">
+  </a>
+
+
+ <a href="https://www.youtube.com/c/MichaelJames6/">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/youTube.svg" alt="Youtube" style="vertical-align:top; margin:4px">
+  </a>
+</p>
+
+<hr>
+
+### 🚧 I build with...
+
+<p>
+  <a href="http://avaloniaui.net/">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/6f9a9537c12cccd375436a59df526f5ecaa46c42/Resources/avalonia.svg" alt="Avalonia" style="vertical-align:top; margin:4px">
+  </a>
+
+ <a href="https://azure.microsoft.com/en-gb/">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/azure.svg" alt="Azure" style="vertical-align:top; margin:4px">
+  </a>
+
+  <a href="https://github.com/apple/swift">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/swift.svg" alt="Swift" style="vertical-align:top; margin:4px">
+  </a>
+
+  <a href="https://docs.microsoft.com/en-us/windows/uwp/">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/uwp.svg" alt="UWP" style="vertical-align:top; margin:4px">
+  </a>
+
+  <a href="https://github.com/dotnet/wpf">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/wpf.svg" alt="WPF" style="vertical-align:top; margin:4px">
+  </a>
+
+  <a href="https://github.com/xamarin/Xamarin.Forms">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/XamarinForms.svg" alt="Xamarin.Forms" style="vertical-align:top; margin:4px">
+  </a>
+
+  <a href="https://github.com/xamarin/xamarin-macios">
+      <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/xamarinIOS.svg" alt="Xamarin.iOS" style="vertical-align:top; margin:4px">
+  </a>  
+
+
+</p>
   
   
 <p align="center" >
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
     <img  src="https://github-readme-stats.vercel.app/api?username=PaulNichols&&show_icons=true&theme=radical"/>
-  </a>
-</p>
-<p align="center">
-  <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-  <img src="https://raw.githubusercontent.com/PaulNichols/PaulNichols/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
-  <img src="https://raw.githubusercontent.com/PaulNichols/PaulNichols/master/svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/PaulNichols/PaulNichols/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/PaulNichols/PaulNichols/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/PaulNichols/PaulNichols/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/PaulNichols/PaulNichols/master/svg/dev/frameworks/vue.svg" alt="vue" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/PaulNichols/PaulNichols/master/svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/PaulNichols/PaulNichols/master/svg/dev/misc/cloud.svg" alt="cloud" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/PaulNichols/PaulNichols/master/svg/dev/misc/datascience.svg" alt="datascience" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/PaulNichols/PaulNichols/master/svg/dev/services/aws.svg" alt="aws" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/PaulNichols/PaulNichols/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/PaulNichols/PaulNichols/master/svg/dev/services/gcp.svg" alt="gcp" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/PaulNichols/PaulNichols/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/PaulNichols/PaulNichols/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
-</p>
-
-### - Blog
-
-<p align="center">
-  <a href="http://integrationmadeeasy.org/">
-    <img src="https://raw.githubusercontent.com/PaulNichols/PaulNichols/master/svg/blogs/devto.svg"> 
   </a>
 </p>
