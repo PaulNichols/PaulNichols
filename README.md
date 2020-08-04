@@ -21,15 +21,15 @@ I’m a seasoned Senior Integration Developer with over 20 years of success dire
 ### 📢 Find me elsewhere
 <p align="center">
   <a href="https://twitter.com/pauljnichols">
-    <img src="https://raw.githubusercontent.com/PaulNichols/PaulNichols/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/twitter.svg" alt="Twitter" style="vertical-align:top; margin:4px">
+    <img src="https://github.com/PaulNichols/PaulNichols/blob/master/svg/social/dev/twitter.svg" alt="Twitter" style="vertical-align:top; margin:4px">
   </a>  
 
   <a href="https://www.linkedin.com/in/pauljamesnichols/">
-    <img src="https://raw.githubusercontent.com/PaulNichols/PaulNichols/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/linkedIn.svg" alt="LinkedIn" style="vertical-align:top; margin:4px">
+    <img src="https://github.com/PaulNichols/PaulNichols/blob/master/svg/dev/social/linkedIn.svg" alt="LinkedIn" style="vertical-align:top; margin:4px">
   </a>
 
-  <a href="https://www.meetup.com/members/186160064/">
-    <img src="https://raw.githubusercontent.com/PaulNichols/PaulNichols/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/meetup.svg" alt="Meetup" style="vertical-align:top; margin:4px">
+  <a href="https://www.meetup.com/members/47279152/">
+    <img src="https://github.com/PaulNichols/PaulNichols/blob/master/svg/dev/social/meetup.svg" alt="Meetup" style="vertical-align:top; margin:4px">
   </a>
 
 
@@ -41,11 +41,14 @@ I’m a seasoned Senior Integration Developer with over 20 years of success dire
 
 
  <a href="https://azure.microsoft.com/en-gb/">
-    <img src="https://raw.githubusercontent.com/PaulNichols/PaulNichols/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/azure.svg" alt="Azure" style="vertical-align:top; margin:4px">
+    <img src="https://github.com/PaulNichols/PaulNichols/blob/master/svg/dev/services/azure.svg" alt="Azure" style="vertical-align:top; margin:4px">
+  </a>
+   <a href="https://azure.microsoft.com/en-gb/">
+    <img src="https://github.com/PaulNichols/PaulNichols/blob/master/svg/dev/services/nuget.svg" alt="nuget" style="vertical-align:top; margin:4px">
   </a>
 
   <a href="https://github.com/dotnet/wpf">
-    <img src="https://raw.githubusercontent.com/PaulNichols/PaulNichols/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/wpf.svg" alt="WPF" style="vertical-align:top; margin:4px">
+    <img src="https://github.com/PaulNichols/PaulNichols/blob/master/svg/social/wpf.svg" alt="WPF" style="vertical-align:top; margin:4px">
   </a>
 
 
@@ -54,6 +57,6 @@ I’m a seasoned Senior Integration Developer with over 20 years of success dire
   
 <p align="center" >
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=PaulNichols&&show_icons=true&theme=radical"/>
+    <im  src="https://github-readme-stats.vercel.app/api?username=PaulNichols&&show_icons=true&theme=radical"/>
   </a>
 </p>
