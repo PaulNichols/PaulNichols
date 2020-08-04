@@ -35,39 +35,39 @@ I’m a seasoned Senior Integration Developer with over 20 years of success dire
 ### 🚧 I build with...
 
 <p align="center">
- <a href="https://azure.microsoft.com/en-gb/">
+ <a href="">
     <img src="https://github.com/PaulNichols/PaulNichols/blob/master/svg/dev/languages/csharp_dotnet.svg" alt="dotnet" style="vertical-align:top; margin:4px">
   </a>
- <a href="https://azure.microsoft.com/en-gb/">
+ <a href="">
     <img src="https://github.com/PaulNichols/PaulNichols/blob/master/svg/dev/tools/visualstudio.svg" alt="dotnet" style="vertical-align:top; margin:4px">
   </a>
 
- <a href="https://azure.microsoft.com/en-gb/">
+ <a href="">
     <img src="https://github.com/PaulNichols/PaulNichols/blob/master/svg/dev/tools/visualstudio_code.svg" alt="dotnet" style="vertical-align:top; margin:4px">
   </a>
 
- <a href="https://azure.microsoft.com/en-gb/">
+ <a href="">
     <img src="https://github.com/PaulNichols/PaulNichols/blob/master/svg/dev/services/azure.svg" alt="Azure" style="vertical-align:top; margin:4px">
   </a>
-    <a href="https://github.com/dotnet/wpf">
+    <a href="">
     <img src="https://github.com/PaulNichols/PaulNichols/blob/master/svg/dev/frameworks/wpf.svg" alt="WPF" style="vertical-align:top; margin:4px">
   </a>
   
-   <a href="https://azure.microsoft.com/en-gb/">
+   <a href="">
     <img src="https://github.com/PaulNichols/PaulNichols/blob/master/svg/dev/services/nuget.svg" alt="nuget" style="vertical-align:top; margin:4px">
   </a>
 
-  <a href="https://github.com/dotnet/wpf">
+  <a href="">
     <img src="https://github.com/PaulNichols/PaulNichols/blob/master/svg/dev/frameworks/angular.svg" alt="angular" style="vertical-align:top; margin:4px">
   </a>
- <a href="https://github.com/dotnet/wpf">
+ <a href="">
     <img src="https://github.com/PaulNichols/PaulNichols/blob/master/svg/dev/services/kubernetes.svg" alt="kubernetes" style="vertical-align:top; margin:4px">
   </a>
- <a href="https://azure.microsoft.com/en-gb/">
+ <a href="">
     <img src="https://github.com/PaulNichols/PaulNichols/blob/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">
   </a>
 
-   <a href="https://github.com/dotnet/wpf">
+   <a href="">
     <img src="https://github.com/PaulNichols/PaulNichols/blob/master/svg/dev/misc/cloud.svg" alt="cloud" style="vertical-align:top; margin:4px">
   </a>
 </p><hr>
