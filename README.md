@@ -14,7 +14,7 @@ I’m a seasoned Senior Integration Developer with over 20 years of success dire
 
 ### 🌱 I’m currently learning
 ....
-
+React & Docker
 
 
 ---
